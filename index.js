@@ -42,7 +42,7 @@ connectDB();
 
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://new-akg.vercel.app",
+  "https://gims-frontend.vercel.app",
   "https://vs4l9npm-3000.inc1.devtunnels.ms"
 ];
 
